@@ -1,9 +1,6 @@
 # Problem Bank
 
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" />
-<img src="https://img.shields.io/badge/gcc-6.3.0-lightgrey.svg" />
-<img src="https://img.shields.io/badge/LLVM-9.0.0-red.svg" />
-<img src="https://img.shields.io/badge/javac-1.8.0_121-orange.svg" />
+<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" /> <img src="https://img.shields.io/badge/gcc-6.3.0-lightgrey.svg" /> <img src="https://img.shields.io/badge/LLVM-9.0.0-red.svg" /> <img src="https://img.shields.io/badge/javac-1.8.0_121-orange.svg" />
 
 **Dongguk University, CSE.**
 
