@@ -14,8 +14,8 @@
 
 * #### IDE
     * **Visual Studio 2017 Community**
-    * **Eclipse Neon.3 Release (4.6.3)**
-    * **Xcode v9.0.0**
+    * **Eclipse Neon.3 Release (< 4.6.3)**
+    * **Xcode (< 9.0.0)**
 
 * #### O.S
     * **Ubuntu 17.04**
@@ -25,7 +25,7 @@
 
 ## Coding Convensions
 
-Read [this](Coding-Convensions/Coding-Convension.md) if you are not familar with Coding Convensions and not sure why you need it.
+Read [this](Coding-Convensions/Coding-Convension.md) if you are not familar with **Coding Convensions** and not sure why you need it.
 
 - ### [C](Coding-Convensions/C.md)
 - ### [C++](Coding-Convensions/Cpp.md)
@@ -41,4 +41,4 @@ ______
 ### Credits
 
 * [박현민](https://github.com/spb829)
-* [이예슬](#)
+* [이예슬](https://github.com/lilynys)
