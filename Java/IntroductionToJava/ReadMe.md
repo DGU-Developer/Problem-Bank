@@ -8,11 +8,11 @@
 
 ### Chapter 2
 
-- 2.5
-- 2.6
-- 2.7
-- 2.8
-- 2.9
-- 2.10
+- [2.5](Problems/2.5.md)
+- [2.6](Problems/2.6.md)
+- [2.7](Problems/2.7.md)
+- [2.8](Problems/2.8.md)
+- [2.9](Problems/2.9.md)
+- [2.10](Problems/2.10.md)
 
 
