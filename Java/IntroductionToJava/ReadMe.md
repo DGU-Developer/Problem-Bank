@@ -1,6 +1,6 @@
 # Introduction to Java : Theory and Practice
 
-자바 입문 : 이론과 실습
+**자바 입문 : 이론과 실습**
 
 ![Book Image](Images/book.jpg)
 
