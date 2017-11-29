@@ -15,4 +15,9 @@
 - [2.9](Problems/2.9.md)
 - [2.10](Problems/2.10.md)
 
+### Chapter 3
+
+- [3.8](Problems/3.8.md)
+- [3.9](Problems/3.9.md)
+- [3.10](Problems/3.10.md)
 
