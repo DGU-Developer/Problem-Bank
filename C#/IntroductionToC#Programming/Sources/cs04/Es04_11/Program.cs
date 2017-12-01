@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Es04_11
+{
+    class Fraction
+    {
+        public int numerator;   //분자
+        public int denominator; //분모
+
+        public Fraction(int numerator, int denominator) //분수
+        {
+            this.numerator = numerator;
+            this.denominator = denominator;
+        }
+
+        public static int CommonMeasure(int a, int b) //공약수
+        {
+            int i;
+            for (i = b; i > 0; i--)
+            {
+                if (a % i == 0 && b % i == 0) break;
+            }
+            return i;
+        }
+
+        public static Fraction AddFraction(Fraction x1, Fraction x2)
+        {
+            int numerator = x1.numerator * x2.denominator + x1.denominator * x2.numerator;
+            int denominator = x1.denominator * x2.denominator;
+            int cm = CommonMeasure(numerator, denominator);
+            return new Fraction(numerator / cm, denominator / cm);
+        }
+
+        public static Fraction SubFraction(Fraction x1, Fraction x2)
+        {
+            int numerator = x1.numerator * x2.denominator - x1.denominator * x2.numerator;
+            int denominator = x1.denominator * x2.denominator;
+            int cm = CommonMeasure(numerator, denominator);
+            return new Fraction(numerator / cm, denominator / cm);
+        }
+
+        public static Fraction MulFraction(Fraction x1, Fraction x2)
+        {
+            int numerator = x1.numerator * x2.numerator;
+            int denominator = x1.denominator * x2.denominator;
+            int cm = CommonMeasure(numerator, denominator);
+            return new Fraction(numerator / cm, denominator / cm);
+        }
+
+        public static Fraction DivFraction(Fraction x1, Fraction x2)
+        {
+            int numerator = x1.numerator * x2.denominator;
+            int denominator = x1.denominator * x2.numerator;
+            int cm = CommonMeasure(numerator, denominator);
+            return new Fraction(numerator / cm, denominator / cm);
+        }
+
+        public override string ToString() //분자/분모 형태로 변환
+        {
+            return numerator.ToString() + "/" + denominator.ToString();
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Fraction c1, c2;
+            c1 = new Fraction(1, 2);
+            c2 = new Fraction(3, 4);
+
+            Console.WriteLine("{0} + {1} = {2}", c1, c2, Fraction.AddFraction(c1, c2));
+            Console.WriteLine("{0} - {1} = {2}", c1, c2, Fraction.SubFraction(c1, c2));
+            Console.WriteLine("{0} * {1} = {2}", c1, c2, Fraction.MulFraction(c1, c2));
+            Console.WriteLine("{0} / {1} = {2}", c1, c2, Fraction.DivFraction(c1, c2));
+        }
+    }
+}
