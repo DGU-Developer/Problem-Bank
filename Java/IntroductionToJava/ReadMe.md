@@ -42,7 +42,7 @@
 ### Chapter 6
 확장 클래스와 인터페이스
 
-- [1](Problems/1.md)
+- [6.6](Problems/6.6.md)
 
 ### Chapter 7
 패키지
