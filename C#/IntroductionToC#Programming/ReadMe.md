@@ -24,3 +24,16 @@
 - [4.16](Problems/4.16.md)
 - [4.17](Problems/4.17.md)
 - [4.18](Problems/4.18.md)
+
+### Chapter 5
+
+- [5.7](Problems/5.7.md)
+- [5.8](Problems/5.8.md)
+- [5.9](Problems/5.9.md)
+- [5.11](Problems/5.11.md)
+
+### Chapter 6
+
+- [6.10](Problems/6.10.md)
+- [6.13](Problems/6.13.md)
+- [6.14](Problems/6.14.md)

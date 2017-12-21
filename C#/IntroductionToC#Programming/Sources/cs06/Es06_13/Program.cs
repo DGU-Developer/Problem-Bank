@@ -24,7 +24,7 @@ namespace Es06_13
                     if (mysteriousState == 3) continue;
                     Console.Write("but kindly ");
                     if (mysteriousState == 4)
-                        throw new ExerciseCh6_9();
+                        throw new ExerciseCh6_13();
                     Console.Write("not at all ");
                 }
                 finally
