@@ -1,5 +1,5 @@
 /*
- * �������� 13-10 (1). 8-Queens Problem
+ * 13-10 (1). 8-Queens Problem
      ---  to place eight queens on an 8*8 chessboard so that
           no two attack,  that is so that no two of them are
           on the same row, column or diagonal.
