@@ -1,0 +1,27 @@
+# 13.7.1
+
+다음 프로그램의 실행 결과를 쓰시오.
+
+```java
+public class ExerciseCh13_7_1 {
+    public static void main(String[] args){
+        try{
+            Class e = Class.forName("java.lang.RuntimeException");
+            Class sc = e.getSuperclass();
+            System.out.println("Class     Name = " + e.getName());
+            System.out.println("Superclass Name  =" + sc.getName());
+        }catch(ClassNotFoundException e){
+            System.err.println(e);
+        }
+    }
+}
+
+
+
+```
+
+### [**Solution**](../Solutions/13.7.1.md)
+
+___
+
+### [**Back to the List**](../#list-of-problems)
