@@ -43,38 +43,43 @@
 확장 클래스와 인터페이스
 
 - [6.6](Problems/6.6.md)
+- [6.7](Problems/6.7.md)
+- [6.8](Problems/6.8.md)
+- [6.9](Problems/6.9.md)
+- [6.10](Problems/6.10.md)
 
 ### Chapter 7
 패키지
 
-- [1](Problems/1.md)
+- [7.6](Problems/7.6.md)
+- [7.7](Problems/7.7.md)
+- [7.8](Problems/7.8.md)
+- [7.9](Problems/7.9.md)
 
 ### Chapter 8
 그래픽 프로그래밍
 
-- [1](Problems/1.md)
-
 ### Chapter 9
 예외와 단정
 
-- [1](Problems/1.md)
+- [9.6](Problems/9.6.md)
 
 ### Chapter 10
 제네릭과 어노테이션
 
-- [1](Problems/1.md)
+- [10.6](Problems/10.6.md)
+- [10.7](Problems/10.7.md)
 
 ### Chapter 11
 스레드
 
-- [1](Problems/1.md)
+- [11.6](Problems/11.6.md)
+- [11.7](Problems/11.7.md)
 
 ### Chapter 12
 그래픽 사용자 인터페이스
 
-- [1](Problems/1.md)
-
 ### Chapter 13
 자바의 기본 패키지
 
-- [1](Problems/1.md)
+- [13.10](Problems/13.10.md)
