@@ -32,10 +32,10 @@ Read [this](Coding-Conventions/Coding-Convention.md) if you are not familar with
 - ### [C#](Coding-Conventions/CS.md)
 - ### [Java](Coding-Conventions/Java.md)
 
-## Problem Bank
+## Problem Bankg
 
 - ### [Introduction to Java](Java/IntroductionToJava/)
-- ### [Introduction to Java](C#/IntroductionToC#Programming/)
+- ### [Introduction to C#](C#/IntroductionToC#Programming/)
 
 ## References
 
