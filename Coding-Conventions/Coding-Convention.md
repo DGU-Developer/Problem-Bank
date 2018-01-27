@@ -1,14 +1,14 @@
-# Coding Convension
+# Coding Convention
 
 ## Introduction
 * #### Topic
   * 코딩 컨벤션은 왜 중요할까?
-* #### What is Coding Convension?
+* #### What is Coding Convention?
   * 코딩 컨벤션은 읽고, 관리하기 쉬운 코드를 작성하기 위한 일종의 코딩 스타일 규약
   * 아무리 작은 프로젝트라 하더라도 이후 유지 보수 및 추가 개발 등의 관리 이슈가 여전히 존재하기 때문에 코딩 스타일 규약은 반드시 필요
   * 사실 기계가 이해하기엔 결과적으로 동일하지만, 코드를 작성하는 건 인간이기 때문에 (비단 코드를 짠 본인이 아니라도) 열람 및 유지보수를 용이하게 하기 위해 어느 정도 통일된 스타일이 필요
 
-## Coding Convension
+## Coding Convention
 * ### Coding Style
   * #### GNU
     ```

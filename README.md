@@ -23,14 +23,14 @@
     * **macOS (>12.6)**
     * **Windows 10**
 
-## Coding Convensions
+## Coding Conventions
 
-Read [this](Coding-Convensions/Coding-Convension.md) if you are not familar with **Coding Convensions** and not sure why you need it.
+Read [this](Coding-Conventions/Coding-Convention.md) if you are not familar with **Coding Conventions** and not sure why you need it.
 
-- ### [C](Coding-Convensions/C.md)
-- ### [C++](Coding-Convensions/Cpp.md)
-- ### [C#](Coding-Convensions/CS.md)
-- ### [Java](Coding-Convensions/Java.md)
+- ### [C](Coding-Conventions/C.md)
+- ### [C++](Coding-Conventions/Cpp.md)
+- ### [C#](Coding-Conventions/CS.md)
+- ### [Java](Coding-Conventions/Java.md)
 
 ## Problem Bank
 
