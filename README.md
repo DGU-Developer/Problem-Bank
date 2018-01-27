@@ -14,13 +14,13 @@
 
 * #### IDE
     * **Visual Studio 2017 Community**
-    * **Eclipse Neon.3 Release (< 4.6.3)**
-    * **Xcode (< 9.0.0)**
+    * **Eclipse Neon.3 Release (> 4.6.3)**
+    * **Xcode (> 9.0.0)**
 
 * #### O.S
-    * **Ubuntu 17.04**
-    * **Linux Mint 19**
-    * **macOS 12.6**
+    * **Ubuntu (>17.04)**
+    * **Linux Mint (>19)**
+    * **macOS (>12.6)**
     * **Windows 10**
 
 ## Coding Convensions
@@ -35,6 +35,7 @@ Read [this](Coding-Convensions/Coding-Convension.md) if you are not familar with
 ## Problem Bank
 
 - ### [Introduction to Java](Java/IntroductionToJava/)
+- ### [Introduction to Java](C#/IntroductionToC#Programming/)
 
 ## References
 
